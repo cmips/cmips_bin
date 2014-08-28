@@ -1,4 +1,4 @@
 cmips_bin
 =========
 
-Cmips binaries
+Cmips binaries for Linux 64 bit
